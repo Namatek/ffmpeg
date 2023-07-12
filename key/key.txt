@@ -1,0 +1,3 @@
+httphttp://localhost:5500/key/enc.key
+{Absolute address for enc.key file}
+ecd0d06eaf884d8226c33928e87efa33
