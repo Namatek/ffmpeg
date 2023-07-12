@@ -60,4 +60,4 @@ For playing, just add this tag to `<video>` tag:
 <source src="http://localhost:5500/file/file.m3u8" type="application/x-mpegURL">
 ```
 ## Note
-We need to a webserver (for example `live server` in vscode)
+We need to a webserver (for example [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in vscode)
